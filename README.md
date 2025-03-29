@@ -1,41 +1,39 @@
-Tidecoin Core integration/staging tree
+Prayercoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/tidecoin-project/tidecoin.svg?branch=master)](https://travis-ci.org/tidecoin-project/tidecoin)
+[![Build Status](https://travis-ci.org/Prayercoin-project/Prayercoin.svg?branch=master)](https://travis-ci.org/Prayercoin-project/Prayercoin)
 
-http://tidecoin.org
 
-What is Tidecoin?
+What is Prayercoin?
 ----------------
 
-Tidecoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Tidecoin uses peer-to-peer technology to operate
+Prayercoin is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. Prayercoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Tidecoin Core is the name of open source
+out collectively by the network. Prayercoin Core is the name of open source
 software which enables the use of this currency.
 
-Tidecoin is Post Quantum Security, by introducing new cryptography algorithm 'Falcon', which is a lattice-based cryptography algorithm. The algorithm is based on the theoretical framework of Gentry, Peikert and Vaikuntanathan. There is no efficient solving algorithm currently known in the general case, even with the help of quantum computers, because the underlying, difficult problem is the short integer solution problem (SIS) over NTRU lattices.
+Prayercoin is Post Quantum Security, by introducing new cryptography algorithm 'Falcon', which is a lattice-based cryptography algorithm. The algorithm is based on the theoretical framework of Gentry, Peikert and Vaikuntanathan. There is no efficient solving algorithm currently known in the general case, even with the help of quantum computers, because the underlying, difficult problem is the short integer solution problem (SIS) over NTRU lattices.
 
 For more information, as well as an immediately useable, binary version of
-the Tidecoin Core software, see [http://tidecoin.org](http://tidecoin.org).
+the Prayercoin Core software, see [http://Prayercoin.org](http://Prayercoin.org).
 
 License
 -------
 
-Tidecoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Prayercoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/tidecoin-project/tidecoin/tags) are created
-regularly to indicate new official, stable release versions of Tidecoin Core.
+completely stable. [Tags](https://github.com/Prayercoin-project/Prayercoin/tags) are created
+regularly to indicate new official, stable release versions of Prayercoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md)
 and useful hints for developers can be found in [doc/developer-notes.md](doc/developer-notes.md).
 
-Developer IRC can be found on Freenode at #tidecoin-dev.
 
 Testing
 -------
@@ -69,7 +67,7 @@ Translations
 ------------
 
 We only accept translation fixes that are submitted through [Bitcoin Core's Transifex page](https://www.transifex.com/projects/p/bitcoin/).
-Translations are converted to Tidecoin periodically.
+Translations are converted to Prayercoin periodically.
 
 Translations are periodically pulled from Transifex and merged into the git repository. See the
 [translation process](doc/translation_process.md) for details on how this works.
